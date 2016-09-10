@@ -1,6 +1,10 @@
 # Random Notes
 
 # Arduino
+[UNO Schematic](https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf)
+
+[ATmega 328P datasheet](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_datasheet.pdf)
+
 To allow debugWire in AVR Studio to function when run against an Arduino UNO, reset-enable must [be cut](http://www.atmel.com/webdoc/avrdragon/avrdragon.section.gsr_osd_lc.html) to 
 remove the capacitive load.
 
